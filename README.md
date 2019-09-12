@@ -169,38 +169,40 @@ Boehm. Disponível em: http://goo.gl/fgf8Gr
 
 EXERCÍCIO PRÁTICO - [01]
 
-**01. Processo de negócio e processo de desenvolvimento de software significam a
-mesma coisa? Justifique sua resposta.**
+**01. Processo de negócio e processo de desenvolvimento de software significam a mesma coisa? Justifique sua resposta.**
+
 R: Não. Processos de negócio estão relacionados ao fluxo das atividades para atingir um fim específico dentro da empresa.Ex: Processo de negócio para aquisição de material de consumo. Processo de desenvolvimento de software está relacionado a confecção do software que resolve algum problema.
 
 
-**02. Observe a afirmação: “Modelo de Processo de Software e Processo de Software são
-denominações diferentes, no entanto possuem o mesmo significado”. Esta
-afirmação é verdadeira ou falsa? Justifique sua resposta.**
+**02. Observe a afirmação: “Modelo de Processo de Software e Processo de Software são denominações diferentes, no entanto possuem o mesmo significado”. Esta afirmação é verdadeira ou falsa? Justifique sua resposta.**
+
 R: Essa afirmação é falsa, pois o modelo é uma abstração do processo, uma representação simplificada do processo utilizadas para explicar diferentes abordagens de desenvolvimento.O processo em si são as diversas execuções baseadas no modelo.
 
 
 **03. Quais as diferenças entre o modelo cascata e o espiral.**
+
 R: No modelo em cascata as atividades são feitas em sequência, já no modelo espiral, cada volta na espiral representa uma fase do processo de software.
 
 
-**04. Existem muitas maneiras de os desenvolvedores decidirem como organizar o
-desenvolvimento em versões. As duas abordagens mais populares são o
-desenvolvimento incremental e o desenvolvimento iterativo. Explique cada um
+**04. Existem muitas maneiras de os desenvolvedores decidirem como organizar odesenvolvimento em versões. As duas abordagens mais populares são o desenvolvimento incremental e o desenvolvimento iterativo. Explique cada um
 deles.**
+
 R: No desenvolvimento incremental alguns dos incrementos desenvolvidos são entregues ao cliente e implantados para uso em um ambiente operacional. No desenvolvimento iterativo o cliente só terá o resultado final do software.
 
 
 **05. Observe a afirmação: “Adotar um modelo de processo pautado numa abordagem incremental é melhor que uma abordagem tradicional (em cascata, por exemplo) para sistemas pessoais e e-commerce”. Esta afirmação é verdadeira ou falsa?
 Justifique sua resposta.**
+
 R: Acredito que sim, pois os requisitos nesses tipos de sistemas são pouco conhecidos e  irão variar bastante e o software deve ser flexível a mudanças para atender as necessidades do cliente.
 
 
 **06. Em quais tipos de sistemas ou contextos o desenvolvimento e entrega incrementais não são a melhor abordagem?**
+
 R: Em sistemas críticos ou formais onde as partes do sistema são bem compreendidas e só fazem sentido quando entregues por completo.
 
 
 **07. Cite algumas situações nas quais a utilização de protótipos é adequada.**
+
 R: Para validar um conceito ou funcionalidade nova, para validar uma versão inicial do sistema, para descobrir mais sobre o problema e suas soluções e para ajudar a antecipar mudanças.
  
 
