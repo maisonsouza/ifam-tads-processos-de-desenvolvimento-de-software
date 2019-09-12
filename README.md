@@ -2,10 +2,9 @@
 
 ### Software
 
->
->É um produto projetado e construído para resolver um dado problema cuja solução precisa ser automatizada e é composto
->por um conjunto de **programas, procedimentos, dados e documentação** associados.
-```
+
+> É um produto projetado e construído para resolver um dado problema cuja solução precisa ser automatizada e é composto
+> por um conjunto de **programas, procedimentos, dados e documentação** associados.
 
 `Desenvolver software é complexo.`
 
