@@ -47,20 +47,21 @@ O foco da engenharia de software está em todos os aspectos da produção de sof
 
 * Requisitos
 
-``
+```
 Aquisição, análise, especificação e gestão de requisitos de software.
-``
+```
 
 * Design
 
-``
+```
 Trata de questões relacionadas a solução do problema: definição da arquitetura, componentes, interfaces e outras características do software.
-``
+```
+
 * Construção
-``
+```
 Trata das questões relacionadas a implementação do software, levando em
 consideração as linguagens de programação, testes, reuso, debugging, qualidade da implementação e integração.
-``
+```
 
 * Teste
 ``
@@ -69,39 +70,40 @@ Verificação dinâmica do comportamento do programa através do uso de um conju
 
 * Manutenção
 
-``
+```
 Trata do planejamento, coordenação, medição, monitoração e controle do projeto, levando em consideração aspectos como cronograma, riscos e recursos humanos.
-``
+```
 
 * Gerência de Configuração
 
-``
+```
 Trata de questões relacionadas a definição, implementação, avaliação, medição, gerenciamento, mudança e melhoria do processo de software.
-``
+```
+
 * Gerência de Projeto
 
-``
+```
 Trata do planejamento, coordenação, medição, monitoração e controle do projeto, levando em consideração aspectos como cronograma, riscos e recursos humanos.
-``
+```
 
 * Processo
 
-``
+```
 Trata de questões relacionadas a definição, implementação, avaliação, medição, gerenciamento, mudança e melhoria do processo de software.
-``
+```
 
 * Ferramentas e Métodos
 
-``
+```
 Trata sobre estratégias, ferramentas e métodos que aumentem a produtividade dos desenvolvedores enquanto reduzem a
 ocorrência de falhas no desenvolvimento.
-``
+```
 
 * Qualidade
 
-``
+```
 Trata de um conjunto de atividades relacionadas com a garantia da qualidade de software, tais como, requisitos de qualidade, caracterização de defeito, métricas de qualidade, verificação e validação e técnicas para gerenciamento da qualidade.
-``
+```
 
 Leitura
 • Básica
@@ -125,9 +127,9 @@ R: Essa afirmação é falsa, pois o modelo é uma abstração do processo, uma 
 ```
 
 **03. Quais as diferenças entre o modelo cascata e o espiral.**
-
+```
 R: No modelo em cascata as atividades são feitas em sequência, já no modelo espiral, cada volta na espiral representa uma fase do processo de software.
-
+```
 
 **04. Existem muitas maneiras de os desenvolvedores decidirem como organizar odesenvolvimento em versões. As duas abordagens mais populares são o desenvolvimento incremental e o desenvolvimento iterativo. Explique cada um
 deles.**
