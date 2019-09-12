@@ -64,9 +64,9 @@ consideração as linguagens de programação, testes, reuso, debugging, qualida
 ```
 
 * Teste
-``
+```
 Verificação dinâmica do comportamento do programa através do uso de um conjunto finito de casos de teste.
-``
+```
 
 * Manutenção
 
