@@ -1,7 +1,32 @@
 # Anotações do Curso de Processo de Desenvolvimento-de-Software
 
-### Software
+### Dados Gerais do Componente Curricular
 
+Código:	GTOPEPDSOF00
+
+### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
+
+Unidade Responsável:	CURSOS SUPERIORES - CMC
+
+Tipo do Componente Curricular:	DISCIPLINA
+
+Carga Horária Teórica:	60 h.
+
+### Ementa/Descrição
+```
+Ciclo de Vida de Desenvolvimento de Software;
+Processos e Ferramentas; Meta-Modelo de qualidade (CMMI);
+Elaboração de processos para desenvolvimento e manutenção de software segundo meta-modelos de qualidade;
+Ferramentas para apoio a execução de processos. 
+Execução de processos relacionados a desenvolvimento e/ou manutenção a partir de um projeto tomado como estudos de caso.
+```
+Matriculável "On-Line":	Sim
+Pode criar turma sem solicitação:	Não
+Quantidade de Avaliações:	1
+Possui subturmas:	Não
+Permite Turma com Flexibilidade de Horário:	Sim
+
+### Software
 
 > É um produto projetado e construído para resolver um dado problema cuja solução precisa ser automatizada e é composto
 > por um conjunto de **programas, procedimentos, dados e documentação** associados.
