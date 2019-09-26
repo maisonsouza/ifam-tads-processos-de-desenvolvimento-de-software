@@ -1,12 +1,13 @@
 # Anotações do Curso de Processo de Desenvolvimento-de-Software
 
-### Dados Gerais do Componente Curricular
-Código:	GTOPEPDSOF00
+### Dados Gerais do Componente Curricular: Código:	GTOPEPDSOF00
 
 ### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
 Unidade Responsável:	CURSOS SUPERIORES - CMC
 
 Tipo do Componente Curricular:	DISCIPLINA
+
+Professor(a): ANDREA PEREIRA MENDONCA
 
 Carga Horária Teórica:	60 h.
 
