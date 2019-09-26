@@ -12,17 +12,19 @@ Precisamos por a “mão na massa” em algumas práticas de desenvolvimento ág
 Leia atentamente as orientações contidas neste documento e vamos ao trabalho!
 
 ## CARACTERIZAÇÃO DO PROJETO
-A coordenação do Curso de TADS precisa de um sistema para gerenciamento do trabalho de monitores voluntários para as disciplinas. A ideia é que alunos com bom desempenho no curso possam se disponibilizar para auxiliar estudantes com dificuldades de aprendizagem. Assim, cabe a coordenação do curso definir as disciplinas que precisam de monitores, assim como a quantidade de monitores. Cada
-monitor só pode trabalhar por, no máximo, 12 horas semanais e, no mínimo, 6 horas. O trabalho como monitor voluntário não deve exceder dois semestres letivos. Para ser monitor, o aluno deve atender a alguns requisitos: ser regularmente matriculado, ter cursado todas as disciplinas do primeiro período e não ter tido reprovação na disciplina na qual se candidatou a ser monitor. Uma vez aprovado na seleção de monitoria, caberá a cada monitor disponibilizar seus horários de atendimento, conforme dias e
-horários disponível para cada local de atendimento (p. ex. sala de aula e laboratório) previamente definidos pela coordenação. Aos alunos interessados em ter auxílio dos monitores, deve ser possível se inscrever no horário disponibilizado. Cada monitor deve atender no máximo 08 estudantes por horário. O sistema deve permitir também a realização de consultas: alunos inscritos para o horário de monitoria, monitores por disciplinas, horários mais procurados, entre outras.
+A coordenação do Curso de TADS precisa de um sistema para gerenciamento do trabalho de monitores voluntários para as disciplinas. A ideia é que alunos com bom desempenho no curso possam se disponibilizar para auxiliar estudantes com dificuldades de aprendizagem. Assim, cabe a coordenação do curso definir as disciplinas que precisam de monitores, assim como a quantidade de monitores.
+Cada monitor só pode trabalhar por, no máximo, 12 horas semanais e, no mínimo, 6 horas. O trabalho como monitor voluntário não deve exceder dois semestres letivos. Para ser monitor, o aluno deve atender a alguns requisitos: ser regularmente matriculado, ter cursado todas as disciplinas do primeiro período e não ter tido reprovação na disciplina na qual se candidatou a ser monitor. Uma vez aprovado na seleção de monitoria, caberá a cada monitor disponibilizar seus horários de atendimento, conforme dias e horários disponível para cada local de atendimento (p. ex. sala de aula e laboratório) previamente definidos pela coordenação. Aos alunos interessados em ter auxílio dos monitores, deve ser possível se inscrever no horário disponibilizado.
+
+Cada monitor deve atender no máximo 08 estudantes por horário. O sistema deve permitir também a realização de consultas: alunos inscritos para o horário de monitoria, monitores por disciplinas, horários mais procurados, entre outras.
 
 ## ORIENTAÇÕES GERAIS
 O projeto será desenvolvido em equipe de, no máximo, 04 (quatro) alunos (Time Scrum).
-Ao final, cada equipe deve entregar uma documentação do projeto, código implementado, assim como realizar uma apresentação do software produzido. Cada apresentação deve ser realizada, em no máximo, 15 minutos. No caso deste projeto de software, haverá apenas um Scrum Master para “liderar” os
-vários Times Scrum (equipes). Procure formar times com pessoas que possuam habilidades complementares. Lembre-se: será necessário desenvolver um produto de software (implementação, banco, interface, testes, etc.) e sua documentação associada.
+Ao final, cada equipe deve entregar uma documentação do projeto, código implementado, assim como realizar uma apresentação do software produzido. Cada apresentação deve ser realizada, em no máximo, 15 minutos. No caso deste projeto de software, haverá apenas um Scrum Master para “liderar” os vários Times Scrum (equipes). Procure formar times com pessoas que possuam habilidades complementares. Lembre-se: será necessário desenvolver um produto de software (implementação, banco, interface, testes, etc.) e sua documentação associada.
+
 O projeto foi, intencionalmente, descrito com algumas imprecisões a fim de que cada time, em conjunto com o Scrum Master, possa vivenciar a etapa de descoberta, especificação, negociação e refinamento de requisitos junto a cliente, papel que será assumido pela professora da disciplina. Dada a característica do projeto e o cronograma acadêmico da disciplina, adotaremos sprints de uma semana.
 O desenvolvimento do software deve ser guiado pelo Scrum e haverá avaliações pontuais ao longo de todo o processo. A avaliação levará em consideração o planejamento das spints, a produção dos artefatos (p. ex.: backlog do produto, backlog da sprint, histórias dos usuários, tarefas, critérios de aceitação com BDD e código), cumprimento do cronograma, definição de papéis na equipe, gerenciamento das atividades pela equipe e cumprimento do fluxo de trabalho e das boas práticas do
 Scrum.
+
 A equipe deve estar atenta para ir construindo o projeto de forma iterativa e incremental. Todos os artefatos criados em cada sprint (documentação, teste e código) serão refinados para compor o produto final.
 Para o sucesso do projeto, é imprescindível que cada time de desenvolvimento trabalhe de forma cooperativa e colaborativa. O time deve também ser auto-organizável, respeitando, assim, um dos princípios ágeis.
 Para o sucesso do projeto, é fundamental que o time e o Scrum Master desenvolvam
@@ -30,6 +32,7 @@ efetivas estratégias de comunicação, gerenciamento do tempo e de controle de
 versões dos artefatos produzidos. Cada membro deve ser responsável pela instalação
 e configuração dos recursos de software dos quais necessita para o desenvolvimento
 do projeto.
+
 As aulas de PDS serão dedicadas para o desenvolvimento do projeto, acompanhamento e orientação das equipes, produção dos artefatos e para exposição de conteúdos, alinhados as necessidades do projeto.
 Adotaremos como bibliografia básica para fundamentação sobre Scrum:
 • Scrum Study. Um guia para o conhecimento em Scrum (Guia SBOK), 3ª ed., 2016.
@@ -117,20 +120,20 @@ incompleto é muito menos grave.
 • Scrum Master: Maison Marcel
 
 #### EQUIPE 01:
-• André Paulo
-• Elias Matheus
-• Kerollin Diniz
-• Patricia Cristina
+- André Paulo
+- Elias Matheus
+- Kerollin Diniz
+- Patricia Cristina
 Pasta no Drive: https://drive.google.com/drive/u/0/folders/1PUBXh8hmgsiU8I9bc25S7lPgXnBkth_
 
 #### EQUIPE 02:
-• Andreson Malaquias
-• Philipe Gama
-• Thiago Luiz
-• Alessandro Negrão
+- Andreson Malaquias
+- Philipe Gama
+- Thiago Luiz
+- Alessandro Negrão
 Pasta no Drive: https://drive.google.com/drive/u/0/folders/1FyBUOnW87gpB38viXwyQQwhlTE0WK4s4
 
 #### EQUIPE 03:
-• Thiago Lima
-• Fernando Cauper
+- Thiago Lima
+- Fernando Cauper
 Pasta no Drive:
