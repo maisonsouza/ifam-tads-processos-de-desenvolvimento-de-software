@@ -132,15 +132,13 @@ Trata de um conjunto de atividades relacionadas com a garantia da qualidade de s
 ```
 
 Leitura
-• Básica
-• Livro: Engenharia de Software de Ian Sommerville. 9ª. Ed. São Paulo: Pearson,
-2011.
-• Capítulo 1
-• Complementar
-• Artigo: A View of 20th and 21st Century Software Engineering de Barry
-Boehm. Disponível em: http://goo.gl/fgf8Gr
+- Básica
+  - Livro: Engenharia de Software de Ian Sommerville. 9ª. Ed. São Paulo: Pearson, 2011.
+  - Capítulo 1
+- Complementar
+  - Artigo: A View of 20th and 21st Century Software Engineering de Barry Boehm. Disponível em: http://goo.gl/fgf8Gr
 
-EXERCÍCIO PRÁTICO - [01]
+## EXERCÍCIO PRÁTICO - [01]
 
 **01. Processo de negócio e processo de desenvolvimento de software significam a mesma coisa? Justifique sua resposta.**
 ```
