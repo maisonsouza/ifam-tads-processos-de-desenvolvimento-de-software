@@ -1,6 +1,5 @@
-
-
-Atividades de Scrum Master
+## Atividades de Scrum Master 
+### Scrum Master - Maison Marcel Madri Galvão dos Santos Souza
 
 | Data       | Atividade Realizada                                          | Atividade Pendente                                           | Previsão de Conclusão |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
@@ -15,11 +14,11 @@ Atividades de Scrum Master
 | 23/09/2019 | Terminei de editar o documento e disponibilizei as equipes para educação. |                                                              | 24/09/2019            |
 | 2309/2019  | Reuni todos os emails dos times nos cabeçalhos dos grupos de whatsapp |                                                              | 25/09/2019            |
 | 23/09/2019 | Informei que neste dia estaria disponível de 13:00 as 20:00 para reuniões diárias e para tirar quaisquer dúvidas sobre o Scrum. |                                                              |                       |
-|            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
+| 26/09/2019 | Identifiquei após fazer o curso e ler o documento do scrum guide uma falha no entendimento do projeto, sobre o papel do P.O na elaboração do Product Backlog. | Obter feedback da professora quanto essa importante questão  | 28/09/2019            |
+| 26/09/2019 | Fiz uma análise documento de visão do projeto da equipe 1 orientei, indicando em que fase do projeto estavamos, e pontuei a necessidade de apontar os riscos na seção 4.1 Suposições e Depêndencias. |                                                              | 28/09/2019            |
+| 26/09/2019 | Entendi o framework Scrum, após o cursos, treinamentos e leituras que fiz posso dizer que entendi o framework |                                                              |                       |
+| 26/09/2019 | Orientei a equipe 2 a se esforçar entregar o documento de visão do projeto. |                                                              |                       |
+| 26/09/2019 | A equipe 3 não respondeu a nenhum direcionamento meu primeiramente orientei a equipe a se reunir pra tratar do projeto e da entrega do documento de visão, eles simplesmente ignoraram não comunicaram nada, não apontaram dúvidas, naõ criaram a pasta no drive, nada tudo o que foi feito foi a criação do grupo no whatsapp pra facilitar a comunicação do grupo. | Eloaborar um documento mais detalhado das orientações        |                       |
+| 26/09/2019 | As equipes 1 e 2 seguiram minhas instruções, e deram feedback diário do andamento das atividades além de tirar dúvidas em sala e pelo grupo | Eloaborar um documento mais detalhado das orientações        |                       |
 |            |                                                              |                                                              |                       |
 |            |                                                              |                                                              |                       |
