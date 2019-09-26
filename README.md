@@ -11,6 +11,8 @@ Professor(a): ANDREA PEREIRA MENDONCA
 
 Email: andrea.mendonca@ifam.edu.br
 
+Sala Lab V de Informática - Quintas de 15h às 18h
+
 Carga Horária Teórica:	60 h.
 
 ### Ementa/Descrição
