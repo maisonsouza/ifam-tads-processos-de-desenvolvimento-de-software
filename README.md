@@ -32,6 +32,10 @@ Possui subturmas:	Não
 
 Permite Turma com Flexibilidade de Horário:	Sim
 
+## Classroom
+
+https://classroom.google.com/u/1/c/MzczNzUxOTQ1MjVa
+
 
 
 
