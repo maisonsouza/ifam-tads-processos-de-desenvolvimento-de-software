@@ -1,11 +1,9 @@
 # Anotações do Curso de Processo de Desenvolvimento-de-Software
 
 ### Dados Gerais do Componente Curricular
-
 Código:	GTOPEPDSOF00
 
 ### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
-
 Unidade Responsável:	CURSOS SUPERIORES - CMC
 
 Tipo do Componente Curricular:	DISCIPLINA
@@ -22,18 +20,20 @@ Ferramentas para apoio a execução de processos.
 Execução de processos relacionados a desenvolvimento e/ou manutenção a partir de um projeto tomado como estudos de caso.
 ```
 Matriculável "On-Line":	Sim
+
 Pode criar turma sem solicitação:	Não
+
 Quantidade de Avaliações:	1
+
 Possui subturmas:	Não
+
 Permite Turma com Flexibilidade de Horário:	Sim
 
 ### Software
-
 > É um produto projetado e construído para resolver um dado problema cuja solução precisa ser automatizada e é composto
 > por um conjunto de **programas, procedimentos, dados e documentação** associados.
 
 `Desenvolver software é complexo.`
-
 A complexidade deriva de várias fontes:
 * Complexidade do problema;
 * Relacionamento com diferentes stakeholders (clientes, usuários, especialistas, desenvolvedores, etc.);
@@ -132,15 +132,13 @@ Trata de um conjunto de atividades relacionadas com a garantia da qualidade de s
 ```
 
 Leitura
-• Básica
-• Livro: Engenharia de Software de Ian Sommerville. 9ª. Ed. São Paulo: Pearson,
-2011.
-• Capítulo 1
-• Complementar
-• Artigo: A View of 20th and 21st Century Software Engineering de Barry
-Boehm. Disponível em: http://goo.gl/fgf8Gr
+- Básica
+  - Livro: Engenharia de Software de Ian Sommerville. 9ª. Ed. São Paulo: Pearson, 2011.
+  - Capítulo 1
+- Complementar
+  - Artigo: A View of 20th and 21st Century Software Engineering de Barry Boehm. Disponível em: http://goo.gl/fgf8Gr
 
-EXERCÍCIO PRÁTICO - [01]
+## EXERCÍCIO PRÁTICO - [01]
 
 **01. Processo de negócio e processo de desenvolvimento de software significam a mesma coisa? Justifique sua resposta.**
 ```
