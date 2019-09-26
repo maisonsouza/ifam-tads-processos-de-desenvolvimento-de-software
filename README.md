@@ -9,6 +9,8 @@ Tipo do Componente Curricular:	DISCIPLINA
 
 Professor(a): ANDREA PEREIRA MENDONCA
 
+Email: andrea.mendonca@ifam.edu.br
+
 Carga Horária Teórica:	60 h.
 
 ### Ementa/Descrição
