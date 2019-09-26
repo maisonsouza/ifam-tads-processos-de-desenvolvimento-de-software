@@ -18,18 +18,20 @@ horários disponível para cada local de atendimento (p. ex. sala de aula e labo
 
 ## ORIENTAÇÕES GERAIS
 O projeto será desenvolvido em equipe de, no máximo, 04 (quatro) alunos (Time Scrum).
-Ao final, cada equipe deve entregar uma documentação do projeto, código implementado, assim como realizar uma apresentação do software produzido. Cada apresentação deve ser realizada, em no máximo, 15 minutos. No caso deste projeto de software, haverá apenas um Scrum Master para “liderar” os
-vários Times Scrum (equipes). Procure formar times com pessoas que possuam habilidades complementares. Lembre-se: será necessário desenvolver um produto de software (implementação, banco, interface, testes, etc.) e sua documentação associada.
+Ao final, cada equipe deve entregar uma documentação do projeto, código implementado, assim como realizar uma apresentação do software produzido. Cada apresentação deve ser realizada, em no máximo, 15 minutos. No caso deste projeto de software, haverá apenas um Scrum Master para “liderar” os vários Times Scrum (equipes). Procure formar times com pessoas que possuam habilidades complementares. Lembre-se: será necessário desenvolver um produto de software (implementação, banco, interface, testes, etc.) e sua documentação associada.
+
 O projeto foi, intencionalmente, descrito com algumas imprecisões a fim de que cada time, em conjunto com o Scrum Master, possa vivenciar a etapa de descoberta, especificação, negociação e refinamento de requisitos junto a cliente, papel que será assumido pela professora da disciplina. Dada a característica do projeto e o cronograma acadêmico da disciplina, adotaremos sprints de uma semana.
+
 O desenvolvimento do software deve ser guiado pelo Scrum e haverá avaliações pontuais ao longo de todo o processo. A avaliação levará em consideração o planejamento das spints, a produção dos artefatos (p. ex.: backlog do produto, backlog da sprint, histórias dos usuários, tarefas, critérios de aceitação com BDD e código), cumprimento do cronograma, definição de papéis na equipe, gerenciamento das atividades pela equipe e cumprimento do fluxo de trabalho e das boas práticas do
 Scrum.
+
 A equipe deve estar atenta para ir construindo o projeto de forma iterativa e incremental. Todos os artefatos criados em cada sprint (documentação, teste e código) serão refinados para compor o produto final.
 Para o sucesso do projeto, é imprescindível que cada time de desenvolvimento trabalhe de forma cooperativa e colaborativa. O time deve também ser auto-organizável, respeitando, assim, um dos princípios ágeis.
 Para o sucesso do projeto, é fundamental que o time e o Scrum Master desenvolvam
 efetivas estratégias de comunicação, gerenciamento do tempo e de controle de
 versões dos artefatos produzidos. Cada membro deve ser responsável pela instalação
-e configuração dos recursos de software dos quais necessita para o desenvolvimento
-do projeto.
+e configuração dos recursos de software dos quais necessita para o desenvolvimento do projeto.
+
 As aulas de PDS serão dedicadas para o desenvolvimento do projeto, acompanhamento e orientação das equipes, produção dos artefatos e para exposição de conteúdos, alinhados as necessidades do projeto.
 Adotaremos como bibliografia básica para fundamentação sobre Scrum:
 • Scrum Study. Um guia para o conhecimento em Scrum (Guia SBOK), 3ª ed., 2016.
@@ -75,12 +77,11 @@ Artefatos a serem produzido:
 • Backlog do Produto;
 • Cronograma de planejamento de cada release (com definição das atividades dos membros da equipe).
 • Scrum Master deve apresentar documentação específica e também as assessorias e correções realizadas no Documento de Visão do produto de cada Time Scrum.
-Para a escrita das estórias dos usuários, veja a página 10 do material disponível em
-https://goo.gl/HN5wsx
-Para elaborar o documento de visão do produto, cada time pode se inspirar nos
-exemplos de documentos fornecidos durante as aulas, fazendo as adaptações
-necessárias. Atenção: o documento deve esclarecer as regras de negócio.
+
+Para a escrita das estórias dos usuários, veja a página 10 do material disponível em https://goo.gl/HN5wsx
+Para elaborar o documento de visão do produto, cada time pode se inspirar nos exemplos de documentos fornecidos durante as aulas, fazendo as adaptações necessárias. Atenção: o documento deve esclarecer as regras de negócio.
 http://www.funpar.ufpr.br:8080/rup/process/artifact/ar_bvsio.htm
+
 É importante não confundir o Scrum com o modelo cascata. Assim, não é esperado que
 a equipe elicite todos os requisitos nesta fase ou que apresente um plano de
 desenvolvimento altamente preciso. Contudo, é importante que a equipe estabeleça
@@ -101,17 +102,10 @@ Development);
 • Diagrama de classes e demais diagramas de UML e de banco de dados que se
 fizerem necessários para esclarecimento do sistema;
 
-* Cada time deve estar atento para utilizar as ferramentas e estratégias necessárias para
-o gerenciamento das atividades, controle de versões e facilitação da comunicação
-entre os membros da equipe.
+* Cada time deve estar atento para utilizar as ferramentas e estratégias necessárias para o gerenciamento das atividades, controle de versões e facilitação da comunicação entre os membros da equipe.
 Entrega Final do Projeto e Apresentação Pública
-Produtos Esperados: Entrega da documentação (declaração da visão do projeto
-(corrigido/atualizado), backlog do produto; backlog de cada sprint; modelagem,
-código, testes e apresentação do sistema funcionando.
-Se, por algum motivo, algum time não terminar o projeto inteiro, deverá entregar a
-última versão que seja funcional. Isto obriga cada time a utilizar o processo. Se um time
-entregar um sistema não funcional, a nota será zero. Entregar um sistema funcional, mas
-incompleto é muito menos grave.
+Produtos Esperados: Entrega da documentação (declaração da visão do projeto (corrigido/atualizado), backlog do produto; backlog de cada sprint; modelagem, código, testes e apresentação do sistema funcionando.
+Se, por algum motivo, algum time não terminar o projeto inteiro, deverá entregar a última versão que seja funcional. Isto obriga cada time a utilizar o processo. Se um time entregar um sistema não funcional, a nota será zero. Entregar um sistema funcional, mas incompleto é muito menos grave.
 
 ### EQUIPES
 • Scrum Master: Maison Marcel
