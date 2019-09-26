@@ -15,7 +15,8 @@ Carga Horária Teórica:	60 h.
 ### Ementa/Descrição
 ```
 Ciclo de Vida de Desenvolvimento de Software;
-Processos e Ferramentas; Meta-Modelo de qualidade (CMMI);
+Processos e Ferramentas;
+Meta-Modelo de qualidade (CMMI);
 Elaboração de processos para desenvolvimento e manutenção de software segundo meta-modelos de qualidade;
 Ferramentas para apoio a execução de processos. 
 Execução de processos relacionados a desenvolvimento e/ou manutenção a partir de um projeto tomado como estudos de caso.
