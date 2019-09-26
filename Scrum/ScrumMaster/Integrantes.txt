@@ -40,13 +40,30 @@ Andreson Malaquias
 PHILIPE MATHEOS GAMA FERREIRA
 Thiago Luiz
 Alessandro Negrão
+Tiago Lima
 ------------------------------------
 ------------------------------------
 Equipe 3
 ------------------------------------
-Tiago Lima
 Bruno Bartoh
 Fernando Cauper
 renato lima
 christian nobre
 ------------------------------------
+
+
+Pode ter mais de um monitor pra disciplina
+Monitor só pode ser monitor de uma disciplina
+Os alunos já vem selecionados pela cordenação.
+Regra do negócio x requisitos do sistema.
+Controle de horas do monitor
+Frequencia de monitorados.(Desejável)
+Coordenadora cadastra as monitorias, disciplinas horarios, locais.
+O monitor não pode desmarcar o horario com alunos inscritos.
+Foco aprendizagem
+Nome, periodo, email, telefone
+O aluno não poderá fazer duas monitorias no mesmo horário.
+Matrícula na monitoria primordial.
+Exportar as consultas para um documento.
+
+
