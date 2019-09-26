@@ -124,16 +124,16 @@ incompleto é muito menos grave.
 - Elias Matheus
 - Kerollin Diniz
 - Patricia Cristina
-Pasta no Drive: https://drive.google.com/drive/u/0/folders/1PUBXh8hmgsiU8I9bc25S7lPgXnBkth_
+- Pasta no Drive: https://drive.google.com/drive/u/0/folders/1PUBXh8hmgsiU8I9bc25S7lPgXnBkth_
 
 #### EQUIPE 02:
 - Andreson Malaquias
 - Philipe Gama
 - Thiago Luiz
 - Alessandro Negrão
-Pasta no Drive: https://drive.google.com/drive/u/0/folders/1FyBUOnW87gpB38viXwyQQwhlTE0WK4s4
+- Pasta no Drive: https://drive.google.com/drive/u/0/folders/1FyBUOnW87gpB38viXwyQQwhlTE0WK4s4
 
 #### EQUIPE 03:
 - Thiago Lima
 - Fernando Cauper
-Pasta no Drive:
+- Pasta no Drive:
