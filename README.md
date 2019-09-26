@@ -1,11 +1,9 @@
 # Anotações do Curso de Processo de Desenvolvimento-de-Software
 
 ### Dados Gerais do Componente Curricular
-
 Código:	GTOPEPDSOF00
 
 ### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
-
 Unidade Responsável:	CURSOS SUPERIORES - CMC
 
 Tipo do Componente Curricular:	DISCIPLINA
@@ -22,18 +20,19 @@ Ferramentas para apoio a execução de processos.
 Execução de processos relacionados a desenvolvimento e/ou manutenção a partir de um projeto tomado como estudos de caso.
 ```
 Matriculável "On-Line":	Sim
+
 Pode criar turma sem solicitação:	Não
+
 Quantidade de Avaliações:	1
+
 Possui subturmas:	Não
+
 Permite Turma com Flexibilidade de Horário:	Sim
 
 ### Software
-
 > É um produto projetado e construído para resolver um dado problema cuja solução precisa ser automatizada e é composto
 > por um conjunto de **programas, procedimentos, dados e documentação** associados.
-
 `Desenvolver software é complexo.`
-
 A complexidade deriva de várias fontes:
 * Complexidade do problema;
 * Relacionamento com diferentes stakeholders (clientes, usuários, especialistas, desenvolvedores, etc.);
