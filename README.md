@@ -1,19 +1,19 @@
 # Anotações do Curso de Processo de Desenvolvimento-de-Software
 
-### Dados Gerais do Componente Curricular: Código:	GTOPEPDSOF00
+### Dados Gerais do Componente Curricular:
+#### Código:	GTOPEPDSOF00
+#### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
+**Unidade Responsável:**	CURSOS SUPERIORES - CMC
 
-### Nome:	MC-PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
-Unidade Responsável:	CURSOS SUPERIORES - CMC
+**Tipo do Componente Curricular:**	DISCIPLINA
 
-Tipo do Componente Curricular:	DISCIPLINA
+**Professor(a):** ANDREA PEREIRA MENDONCA
 
-Professor(a): ANDREA PEREIRA MENDONCA
+**Email:** andrea.mendonca@ifam.edu.br
 
-Email: andrea.mendonca@ifam.edu.br
+*Sala Lab V de Informática - Quintas de 15h às 18h*
 
-Sala Lab V de Informática - Quintas de 15h às 18h
-
-Carga Horária Teórica:	60 h.
+**Carga Horária Teórica:**	60 h.
 
 ### Ementa/Descrição
 ```
