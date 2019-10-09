@@ -15,6 +15,16 @@
 
 **Carga Horária Teórica:**	60 h.
 
+**Matriculável "On-Line":**	Sim
+
+**Pode criar turma sem solicitação:**	Não
+
+**Quantidade de Avaliações:**	1
+
+**Possui subturmas:**	Não
+
+**Permite Turma com Flexibilidade de Horário:**	Sim
+
 ### Ementa/Descrição
 ```
 Ciclo de Vida de Desenvolvimento de Software;
@@ -24,15 +34,7 @@ Elaboração de processos para desenvolvimento e manutenção de software segund
 Ferramentas para apoio a execução de processos. 
 Execução de processos relacionados a desenvolvimento e/ou manutenção a partir de um projeto tomado como estudos de caso.
 ```
-Matriculável "On-Line":	Sim
 
-Pode criar turma sem solicitação:	Não
-
-Quantidade de Avaliações:	1
-
-Possui subturmas:	Não
-
-Permite Turma com Flexibilidade de Horário:	Sim
 
 ## Classroom
 
