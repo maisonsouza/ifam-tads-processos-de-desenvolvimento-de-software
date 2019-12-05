@@ -1,4 +1,7 @@
+
+
 ## Atividades de Scrum Master 
+
 ### Scrum Master - Maison Marcel Madri Galvão dos Santos Souza
 
 | Data       | Atividade Realizada                                          | Atividade Pendente                                           | Previsão de Conclusão |
@@ -20,5 +23,18 @@
 | 26/09/2019 | Orientei a equipe 2 a se esforçar entregar o documento de visão do projeto. |                                                              |                       |
 | 26/09/2019 | A equipe 3 não respondeu a nenhum direcionamento meu primeiramente orientei a equipe a se reunir pra tratar do projeto e da entrega do documento de visão, eles simplesmente ignoraram não comunicaram nada, não apontaram dúvidas, naõ criaram a pasta no drive, nada tudo o que foi feito foi a criação do grupo no whatsapp pra facilitar a comunicação do grupo. | Eloaborar um documento mais detalhado das orientações        |                       |
 | 26/09/2019 | As equipes 1 e 2 seguiram minhas instruções, e deram feedback diário do andamento das atividades além de tirar dúvidas em sala e pelo grupo | Eloaborar um documento mais detalhado das orientações        |                       |
+| 01/10/2019 | Expliquei a diferença de histórias, épicos e tarefas.        |                                                              |                       |
+| 02/10/2019 | Ajudei as equipes a entregar o documento de visão dando feedback e fazendo correções |                                                              |                       |
+| 06/10/2019 | Balanceei as equipes conforme as demandas de cada Sprint em algumas sprints coloquei mais gente no desenvolvimento para entregar código funcionando em outras de correção coloquei mais pessoas na documentação, para melhorar o entendimento do sistema |                                                              |                       |
+| 08/10/2019 | Fiz pesquisas sobre outros sistemas de monitoria para verificar como são executados os processos desses sistemas compartilhei com as equipes, para que possam montar suas estratégias de consultas em cima desses documentos. |                                                              |                       |
+| 09/10/2019 | Compartilhei todas as pastas no Drive para conhecimento das equipes online, Dei feedbacks e correções  nos BDD'S |                                                              |                       |
+| 10/10/2019 | Participei das retrospectivas com as equipes para elaborar os próximos backlogs, nessa reunião expliquei sobre a importância de entregar valor primeiro e também de medir o ritmo das equipes. |                                                              |                       |
+| 15/10/2019 | Treinamento de Git e Github prático em sala com o acompanhamento das equipes para que o desenvolvimento do código não ficasse preso a um único implementador.(Aula Extra) |                                                              |                       |
+| 17/10/2019 | Reunião com o cliente para entregas da Sprint e aconselhei as equipes a elaborarem um infográfico que demostrasse o processo dos atores(coordenador, aluno, monitor) dentro do sistema. |                                                              |                       |
+| 07/11/2019 | Parabenizei a equipe 1 pelo comprometimento, vindo num dia sem aula para dar andamento na sprint e aconselhei a entregarem software funcionando mas do que documentação e design. |                                                              |                       |
+| 26/11/2019 | Acompanhei a entrega das equipes da ultima sprint ajudei as equipes a colocarem o codigo da aplicação no github.Dei nome para equipe 1 como União Scrum. |                                                              |                       |
+| 27/11/2019 | Ajudei na dificuldade do time 1 sobre o diagrama de classes, dizendo que o diagrama de classes deveria ser o conceitual. Dei feedback e fiz correções no documento de visão e no documento de projeto de software das equipes. O combinado era que receberia os trabalhos até as 22:00 no entanto dei feedback até as 00:00 por whatsapp |                                                              |                       |
 |            |                                                              |                                                              |                       |
-|            |                                                              |                                                              |                       |
+| 28/11/2019 | Dei feedback sobre os Slides das apresentações das equipes verificando e corrigindo erros |                                                              |                       |
+| 28/11/2019 | Acompanhei as apresentações das equipes.                     |                                                              |                       |
+| 04/12/2019 | Foram postadas as NOTAS no Classroom                         |                                                              |                       |
